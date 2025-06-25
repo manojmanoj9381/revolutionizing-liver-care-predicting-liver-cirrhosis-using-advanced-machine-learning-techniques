@@ -1,5 +1,4 @@
 # revolutionizing-liver-care-predicting-liver-cirrhosis-using-advanced-machine-learning-techniques
-pdf
 
 🩺 Revolutionizing Liver Care: Predicting Liver Cirrhosis using Machine Learning
 This project uses machine learning techniques to predict liver cirrhosis based on medical data. It aims to help doctors in early diagnosis and better treatment planning.
@@ -26,6 +25,6 @@ Check the Video demo folder for full explanation with voice & screen walkthrough
 Find detailed report in the Document folder as a PDF file.
 
 ✨ Developed By:
-Veeresh Kumar
+D Manoj Kumar
 Intern @ SmartInternz
 SSGS Degree College, Guntakal
